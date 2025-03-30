@@ -1,14 +1,14 @@
 # MATLAB specific files
 *.asv
-*.m~
-*.mlx~
+# *.m~
+# *.mlx~
 # *.mat
 *.fig
 *.mex*
 *.mlappinstall
 *.mlpkginstall
 *.slxc
-*.slx
+# *.slx
 *.mdl
 *.autosave
 *.backup
