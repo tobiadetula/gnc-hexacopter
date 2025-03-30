@@ -1,0 +1,42 @@
+# MATLAB specific files
+*.asv
+*.m~
+*.mlx~
+# *.mat
+*.fig
+*.mex*
+*.mlappinstall
+*.mlpkginstall
+*.slxc
+*.slx
+*.mdl
+*.autosave
+*.backup
+
+# MATLAB code generation
+codegen/
+slprj/
+
+# MATLAB temporary files
+*.log
+*.out
+*.tmp
+*.ctf
+*.p
+
+# MATLAB project files
+*.prj
+*.aprx
+
+# MATLAB Simulink cache files
+*.slxc
+*.slx.autosave
+
+# MATLAB Simulink test files
+*.mldatx
+
+# MATLAB Simulink generated files
+*.tlc
+*.rtw
+*.mk
+*.bat
